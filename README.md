@@ -27,7 +27,7 @@ This repository contains a collection of DSA problems, their solutions, time com
 
 | Problem Title                             | Approach                              | Time Complexity | Solution Link                           |
 |-------------------------------------------|---------------------------------------|----------------|-----------------------------------------|
-| Reverse a Linked List                     | Iterative or Recursive                | O(n)           | [Solution](link-to-solution-file)       |
+| Reverse a Linked List                     | Iterative or Recursive                | O(n)           | [Solution](link-to-solution-fil)       |
 
 ## Dynamic Programming
 
