@@ -14,7 +14,7 @@ This repository contains a collection of DSA problems, their solutions, time com
 |-------------------------------------------|---------------------------------------|----------------|-----------------------------------------|
 | Find the Largest Element in an Array      | Iterate through all elements          | O(n)           | [Solution]()       |
 | Find the Second Largest Element           | Iterate twice or track two largest    | O(n)           | [Solution]()       |
-| Reverse an Array                          | Two-pointer technique                 | O(n)           | [Solution](link-to-solution-file)       |
+| Reverse an Array                          | Two-pointer technique                 | O(n)           | [Solution]()       |
 
 ## Strings
 
