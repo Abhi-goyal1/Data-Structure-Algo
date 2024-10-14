@@ -20,7 +20,7 @@ This repository contains a collection of DSA problems, their solutions, time com
 
 | Problem Title                             | Approach                              | Time Complexity | Solution Link                           |
 |-------------------------------------------|---------------------------------------|----------------|-----------------------------------------|
-| Check if a String is a Palindrome         | Two-pointer technique                 | O(n)           | [Solution](link-to-solution-file)       |
+| Check if a String is a Palindrome         | Two-pointer technique                 | O(n)           | [Solution]()       |
 | Longest Substring Without Repeating Chars | Sliding window                        | O(n)           | [Solution](link-to-solution-file)       |
 
 ## Linked List
